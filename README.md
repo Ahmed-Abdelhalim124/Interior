@@ -4,6 +4,11 @@ NeferInterior is an end-to-end interior design pipeline that takes a room photog
 
 
 
+# DEMO LINK : https://drive.google.com/file/d/1d7ogCRPntsNHICa-GYsfxFmrK23B65x_/view?usp=sharing
+
+
+
+
 ## Overview
 
 NeferInterior automates the interior design process by:
